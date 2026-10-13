@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "7.2.8"
+  version: "7.3.1"
 
 package:
   name: edge-tts
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/e/edge-tts/edge_tts-${{ version }}.tar.gz
-  sha256: fcf185a0d527a0d2d003f9d5841facc1d5e0e7b3b88d5df9c32990402c6b8cd0
+  sha256: ee1fabf911b9ea83b38ae93aee5619ee41eaf0b109fef6e65d797dc4ebf1f20f
 
 build:
   number: 0
